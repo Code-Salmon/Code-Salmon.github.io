@@ -3,28 +3,28 @@ export default function CTA() {
   const team = [
     {
       name: 'Everett Merrill',
-      role: 'Full Stack Software Engineer',
+      role: 'Software Engineer',
       image: '/images/everett.png',
       linkedin: 'https://www.linkedin.com/in/everett-merrill/',
       github: 'https://github.com/everettmerrill',
     },
     {
       name: 'Marin Minamiya',
-      role: 'Full Stack Software Engineer',
+      role: 'Software Engineer',
       image: 'images/Marin.JPG',
       linkedin: 'https://www.linkedin.com/in/marin-minamiya/',
       github: 'https://github.com/minamarin',
     },
     {
       name: 'Anne Salim',
-      role: 'Full Stack Software Engineer',
+      role: 'Software Engineer',
       image: '/images/anne.png',
       linkedin: 'https://www.linkedin.com/in/annesalim/',
       github: 'https://github.com/annesalim',
     },
     {
       name: 'Jamie Tait',
-      role: 'Full Stack Software Engineer',
+      role: 'Software Engineer',
       image: '/images/jamie.png',
       linkedin: 'ttps://www.linkedin.com/in/jamiejtait/',
       github: 'https://github.com/jamjota',
