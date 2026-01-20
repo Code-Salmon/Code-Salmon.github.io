@@ -1,1 +1,2 @@
-# ospg2-landingpage
+# Website for CodeSalmonCLI Tool
+This repository contains the landing page and documentation site for Code Salmon, a CLI tool that protects TypeScript projects from silent REST API contract drift. Code Salmon scans your source for API calls, captures real response baselines, and later compares them against live responses to detect breaking changes early. Instead of discovering failures in production, you get clear, structured drift reports in the terminal so you can update your code with confidence and keep external API changes from becoming hidden bugs.
