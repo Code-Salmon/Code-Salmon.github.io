@@ -49,11 +49,12 @@ export default function App({ Component, pageProps }: AppProps) {
         <meta name="viewport" content="width=device-width, initial-scale=1.0" />
       </Head>
       <div
-        className="relative min-h-screen bg-scroll bg-cover bg-center text-[#E5E5E5]"
+        className="relative min-h-screen bg-fixed text-[#E5E5E5]"
         style={{
           backgroundImage: "url('/images/hero-bbg.jpg')",
           backgroundSize: "cover",
-          backgroundPosition: "center center",
+          backgroundPosition: "top center",
+          backgroundRepeat: "no-repeat",
         }}
       >
         <div className="absolute inset-0 bg-black bg-opacity-50 z-0" />
